@@ -6,4 +6,5 @@ export default defineConfig({
   server: {
     port: 5173,
   },
+  base: '/gerenciador-de-epi/', // 👈 adicione esta linha
 });
